@@ -1,3 +1,4 @@
 .DS_Store
 data/mnist_test.csv
 data/mnist_train.csv
+.ipynb_checkpoints/
